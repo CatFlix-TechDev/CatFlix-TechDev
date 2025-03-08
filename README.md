@@ -46,7 +46,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src=https://github.com/CatFlix-TechDev/CatFlix-TechDev/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
+  <img src="https://github.com/CatFlix-TechDev/CatFlix-TechDev/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
 </p>
 
 ---
