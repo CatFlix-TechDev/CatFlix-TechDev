@@ -14,8 +14,8 @@
 
 ### 🎵 Music Integration
 <p align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31faqyftcldgtcvn5fcmtsr67ph4&count=3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31faqyftcldgtcvn5fcmtsr67ph4" alt="Spotify Recently Played" />
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31faqyftcldgtcvn5fcmtsr67ph4&count=2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31faqyftcldgtcvn5fcmtsr67ph4&count=2" alt="Spotify Recently Played" />
   </a>
 </p>
 
