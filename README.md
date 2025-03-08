@@ -42,6 +42,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CatFlix-TechDev&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src=https://github.com/CatFlix-TechDev/CatFlix-TechDev/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
+</p>
+
+---
 
 ### 🤝 Connect with Me
 <p align="center">
