@@ -1,5 +1,10 @@
 <h2 align="center">I'm CatFlix-TechDev 👋</h2>
 
+<p align="center">
+  <img src="https://github.com/CatFlix-TechDev/CatFlix-TechDev/blob/main/banner.png" alt="Banner" />
+</p>
+
+
 ---
 
 ### 👨‍💻 About Me
