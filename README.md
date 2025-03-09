@@ -76,6 +76,31 @@
 
 ---
 
+### ⏳ Time Spent on Coding
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaisNafis" alt="Wakatime Stats" />
+</p>
+
+---
+
+### 🖥️ Terminal Style Info
+```bash
+> whoami
+RaisNafis
+> uname -a
+Linux | Developer | Open Source Enthusiast
+```
+
+---
+
+### 🏷 Fancy Developer Card
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+---
+
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
