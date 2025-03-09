@@ -1,13 +1,24 @@
-<h2 align="center">I'm CatFlix-TechDev 👋</h2>
+<h2 align="center">I'm RaisNafis 👋</h2>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m new in programming 😊.
-- 📫 How to reach me: **catflixtechdev@example.com**.
+<table>
+<tr>
+<td>
+<ul>
+<li>🔯 I’m new in programming 😊.</li>
+<li>📧 How to reach me: <strong>catflixtechdev@example.com</strong>.</li>
+</ul>
+</td>
+<td>
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=RaisNafis" width="150" alt="User Profile Pixel Art" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CatFlix-TechDev&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RaisNafis&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -23,7 +34,7 @@
 
 ### 📊 My Activities
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CatFlix-TechDev&theme=github-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaisNafis&theme=github-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -37,16 +48,30 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CatFlix-TechDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatFlix-TechDev&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CatFlix-TechDev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaisNafis&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisNafis&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaisNafis&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 👥 Top Contributors
+<p align="center">
+  <img src="https://contrib.rocks/image?repo=RaisNafis/RaisNafis" alt="Top Contributors" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/CatFlix-TechDev/CatFlix-TechDev/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
+  <img src="https://github.com/RaisNafis/RaisNafis/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
 </p>
 
 ---
